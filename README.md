@@ -21,7 +21,7 @@
 ## ✨ Sobre mim
 
 Olá! Me chamo **Gabriel Buzato**, tenho **19 anos** e sou estudante de **Ciência da Computação** na **UTP (Universidade Tuiuti do Paraná)**. 
-Tenho muito interesse em me aprofundar na área de desenvolvimento, e sou apaixonado por tecnologia pelo fato de poder facilitar todas as minhas tarefas usando ela
+Tenho muito interesse em me aprofundar na área de desenvolvimento, e sou apaixonado por tecnologia pelo fato de poder facilitar todas as minhas tarefas usando ela <br>
 Tenho grande interesse em **desenvolvimento**, especialmente no ecossistema **JavaScript / TypeScript**, buscando sempre evoluir através de projetos práticos e estudo contínuo.
 
 ---
