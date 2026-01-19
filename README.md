@@ -10,10 +10,10 @@
   <a href="https://www.linkedin.com/in/gabriel-buzato-62a369355/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Buzato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/gabrielbuzato">
-    <img src="https://img.shields.io/github/followers/gabrielbuzato?label=Seguidores&style=for-the-badge&logo=github"/>
+  <a href="https://github.com/gabebuzato">
+    <img src="https://img.shields.io/github/followers/gabebuzato?label=Seguidores&style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/github/stars/gabrielbuzato?label=Estrelas&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/gabebuzato?label=Estrelas&style=for-the-badge"/>
 </p>
 
 ---
