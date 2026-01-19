@@ -29,7 +29,7 @@ Tenho grande interesse em **desenvolvimento**, especialmente no ecossistema **Ja
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,vite,mysql" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,vite,mysql,express,php" />
 </p>
 
 ---
