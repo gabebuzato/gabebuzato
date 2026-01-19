@@ -54,7 +54,7 @@ Tenho grande interesse em **desenvolvimento web**, especialmente no ecossistema 
 ## 📫 Contato
 
 - 💼 LinkedIn: [Gabriel Buzato](https://www.linkedin.com/in/gabriel-buzato-62a369355/)
-- 💻 GitHub: [github.com/gabrielbuzato](https://github.com/gabrielbuzato)
+- 💻 GitHub: [github.com/gabrielbuzato](https://github.com/gabebuzato)
 
 ---
 
